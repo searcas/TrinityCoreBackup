@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+enum DataTypes
+{
+    DATA_TIRATHON_SALTHERIL = 0,
+    DATA_OAKHEART = 1,
+    DATA_DRESARON = 2,
+    DATA_SHADE_OF_XAVIUS = 3,
+
+    DATA_MAX_ENCOUNTERS = 4,
+    DATA_SHIELD_TRIGGER = 5,
+    GO_EVENT_GLAIDALIS = 6
+};
